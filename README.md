@@ -6,6 +6,10 @@ Thank you for taking your time to review this reference architecture.
 This is my first time using Kotlin, so please feel invited to offer feedback relevant to code conventions and API
 use/abuse.
 
+## Enhancements
+- Stop brute-forcing the change-making
+  - A better solution would be a hash map that is to cache change-making permutations
+
 ## Dependencies
 - maven
 - JDK 11
